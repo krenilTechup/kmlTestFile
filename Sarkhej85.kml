@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay>
+	<name>Sarkhej-85</name>
+	<Icon>
+		<href>https://lively-griffin-ccd104.netlify.app/assets/images/sliders/home-banner-3.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>22.98901714572551</north>
+		<south>22.97723660216669</south>
+		<east>72.5154453945722</east>
+		<west>72.50570407358657</west>
+		<rotation>15.51798629760742</rotation>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
